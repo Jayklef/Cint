@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\bin\Debug\net5.0\Cint.Domain.deps.json
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\bin\Debug\net5.0\Cint.Domain.dll
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\bin\Debug\net5.0\ref\Cint.Domain.dll
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\bin\Debug\net5.0\Cint.Domain.pdb
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\obj\Debug\net5.0\Cint.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\obj\Debug\net5.0\Cint.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\obj\Debug\net5.0\Cint.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\obj\Debug\net5.0\Cint.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\obj\Debug\net5.0\Cint.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\obj\Debug\net5.0\Cint.Domain.dll
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\obj\Debug\net5.0\ref\Cint.Domain.dll
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\obj\Debug\net5.0\Cint.Domain.pdb
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\bin\Debug\net5.0\Cint.Domain.runtimeconfig.json
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\bin\Debug\net5.0\Cint.Domain.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Cint.API\Cint.Domain\obj\Debug\net5.0\Cint.Domain.genruntimeconfig.cache
